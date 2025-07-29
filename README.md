@@ -9,9 +9,35 @@ Designed to be used in various applications such as web design, graphic design, 
 
 
 ![Kit Numbers 0-9](https://raw.githubusercontent.com/isaozler/GALAXI/refs/heads/main/public/assets/images/galaxi--charset-0-9.jpg)
-*Letters A-F*
+*Numbers 0-9*
 
 ## Drafts
+
+### Names
+
+![Names I](https://raw.githubusercontent.com/isaozler/GALAXI/refs/heads/main/public/assets/images/names-examples-i.jpg)
+
+![Names II](https://raw.githubusercontent.com/isaozler/GALAXI/refs/heads/main/public/assets/images/names-examples-ii.jpg)
+
+### Examples
+
+![Icardi-9](https://raw.githubusercontent.com/isaozler/GALAXI/refs/heads/main/public/assets/images/icardi-9.jpg)
+
+![Sane-10](https://raw.githubusercontent.com/isaozler/GALAXI/refs/heads/main/public/assets/images/sane-10.jpg)
+
+### Character Set Development - July 28, 2025
+
+![Letters A-H](https://raw.githubusercontent.com/isaozler/GALAXI/refs/heads/main/public/assets/images/digitals/chars/chars--A-H.jpg)
+*Letters A-H*
+
+![Letters I-P](https://raw.githubusercontent.com/isaozler/GALAXI/refs/heads/main/public/assets/images/digitals/chars/chars--I-P.jpg)
+*Letters I-P*
+
+![Letters Q-X](https://raw.githubusercontent.com/isaozler/GALAXI/refs/heads/main/public/assets/images/digitals/chars/chars--Q-X.jpg)
+*Letters Q-X*
+
+![Letters Y-Z](https://raw.githubusercontent.com/isaozler/GALAXI/refs/heads/main/public/assets/images/digitals/chars/chars--Y-Z.jpg)
+*Letters Y-Z*
 
 ### Character Set Development - July 23, 2025
 
