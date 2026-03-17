@@ -7,6 +7,7 @@ This is an unofficial typeface for Galatasaray in contribution to the 5th star w
 
 Designed to be used in various applications such as web design, graphic design, and more. To contribute to the Galatasaray community, this typeface is made available for free use.
 
+![Galatasaray Wireframe Glyph Grid Foundation](https://raw.githubusercontent.com/isaozler/GALAXI/refs/heads/main/public/assets/images/galatasaray-wireframe-logo-2026.jpg)
 
 ![Kit Numbers 0-9](https://raw.githubusercontent.com/isaozler/GALAXI/refs/heads/main/public/assets/images/galaxi--charset-0-9.jpg)
 *Numbers 0-9*
